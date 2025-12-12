@@ -118,4 +118,4 @@ The script performs cleanup on exit:
 ---
 > [!warning]
 > Test thoroughly in controlled environments before operational use.
-```
+
